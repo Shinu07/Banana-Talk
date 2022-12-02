@@ -1,4 +1,4 @@
-# Banana-Talk
+# Mark-6 Banana-Talk
 
 A funny translation app
 
